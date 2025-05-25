@@ -14,7 +14,7 @@ Welcome to the demo version of the **Deckidz** website — a frontend project bu
 ## Installation & Setup ##
 
 #### 1. Clone the repository
-git clone https://github.com/yourusername/deckidz-demo.git
+git clone https://github.com/Kiranpokharkar2003/deckidz-demo.git
 cd deckidz-demo
 
 #### 2. Install dependencies
